@@ -1,2 +1,2 @@
 # contests
-A repository of attempts at codejam among others.
+A repository of attempts at codejam-esque contests among others.
